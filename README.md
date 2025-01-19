@@ -24,4 +24,4 @@ This project utilizes the following libraries:
 
 ## Contributers 💡
 
-@[Mahesh-Vard],@[sumith-ram]
+@[Mahesh-Vard],@[sumith-ram],@[HARSHITHA KOTA]
